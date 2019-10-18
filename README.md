@@ -1,0 +1,2 @@
+# ALBERT_4_Time_Recognition
+使用ALBERT预训练模型，用于识别文本中的时间，同时验证模型的预测耗时是否有显著提升。
